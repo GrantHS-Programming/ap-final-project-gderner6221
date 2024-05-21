@@ -1,0 +1,38 @@
+html {
+background-color: AliceBlue;
+}
+
+a:link, a:visited {
+background-color: LightGreen;
+color: white;
+padding: 15px 25px;
+text-align: center;
+text-decoration: none;
+font-family: Source Code Pro, Courier New, monospace;
+}
+
+h1 {
+font-family: Helvetica, Arial, sans-serif;
+color: white;
+background-color: MediumAquamarine;
+margin: auto;
+border: 5px solid MediumAquaMarine;
+border-radius: 20px;
+padding: 25px;
+text-align: center;
+}
+
+h2 {
+color: white;
+font-family: Roboto, Helvetica, sans-serif;
+background-color: PaleTurquoise;
+margin: auto;
+border: 5px solid PaleTurquoise;
+border-radius: 20px;
+padding: 25px;
+text-align: center;
+}
+
+h3 {
+
+}
